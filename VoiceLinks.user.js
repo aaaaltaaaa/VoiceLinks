@@ -6,8 +6,8 @@
 // @version     2.1.3
 // @grant       GM.xmlHttpRequest
 // @grant       GM_xmlhttpRequest
-// @updateURL   https://github.com/aaaaltaaaa/VoiceLinks/raw/main/VoiceLinks.user.js
-// @downloadURLhttps://github.com/aaaaltaaaa/VoiceLinks/raw/main/VoiceLinks.user.js
+// @updateURL   https://github.com/aaaaltaaaa/VoiceLinks/raw/master/VoiceLinks.user.js
+// @downloadURLhttps://github.com/aaaaltaaaa/VoiceLinks/raw/master/VoiceLinks.user.js
 // @run-at      document-start
 // ==/UserScript==
 
